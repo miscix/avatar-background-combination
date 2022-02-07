@@ -1,0 +1,21 @@
+{
+  "name": "avatar-background-combination",
+  "version": "0.0.0",
+  "description": "CLI to produce avatar-background combinations",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miscix/avatar-background-combination.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "Mushegh Antaranyan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miscix/avatar-background-combination/issues"
+  },
+  "homepage": "https://github.com/miscix/avatar-background-combination#readme"
+}
