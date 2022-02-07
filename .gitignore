@@ -1,0 +1,33 @@
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Dependency directory
+node_modules/
+
+# Distribution directory
+dist/
+
+# Compiled and temporary files
+.tmp/
+*.tmp
+.cache/
+.benchmark/
+.eslintcache
+# TypeScript cache
+*.tsbuildinfo
+
+# Diagnostic reports (https://nodejs.org/api/report.html)
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+# Coverage directory used by tools like istanbul
+coverage
+*.lcov
+
+# dotenv environment variable files
+.env
+.env.local
+
+# IDE & editors
+.idea
+.vscode
